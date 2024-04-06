@@ -1,0 +1,6 @@
+name = "cmmc-payroll-deduct"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pdtrans"
+database_id = "9e193071-6000-433e-adce-d8d118f46ec4"
